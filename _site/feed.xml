@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-29T09:14:39-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hill Associates Classroom Files</title><subtitle>This site contains links and files for the sole use of Hill Associates class participants.</subtitle><entry><title type="html">March 27-29, 2023 - FDIC VPN &amp;amp; RA</title><link href="http://localhost:4000/2023/03/23/VPN.html" rel="alternate" type="text/html" title="March 27-29, 2023 - FDIC VPN &amp;amp; RA" /><published>2023-03-23T00:00:00-04:00</published><updated>2023-03-23T00:00:00-04:00</updated><id>http://localhost:4000/2023/03/23/VPN</id><content type="html" xml:base="http://localhost:4000/2023/03/23/VPN.html"><![CDATA[<p>Welcome to our class on VPNs and Remote access for the FDIC and other financial examiners. Here are are a few things to get you thinking about topics we’ll cover during the week:</p>
+
+<ul>
+  <li>A <a href="/assets/VPN_questions.html"><strong>running list</strong></a> of questions about VPNs and related topics that I might ask if I were an examiner of banks. Since I’m a network geek, these are ones related to this class - there are certainly other good ones.</li>
+</ul>
+
+<h3 id="monday-march-27th">Monday March 27th</h3>
+
+<ul>
+  <li>
+    <p>We’ll talk about VPN topics in class of course, but an entertaining introduction to some of them <a href="https://www.youtube.com/watch?v=WVDQEoe6ZWY"><strong>can be found in this video</strong></a> by <a href="https://en.wikipedia.org/wiki/Tom_Scott_(presenter)">Tom Scott</a>.</p>
+  </li>
+  <li>
+    <p>You certainly already appreciate the role privacy plays in the financial sector. The <a href="https://www.eff.org/"><strong>Electronic Frontier Foundation</strong></a> has a longstanding relationship to issues related to privacy - which is, after all, the “P” in VPN. <a href="https://supporters.eff.org/civicrm/mailing/view?reset=1&amp;id=11829"><strong>Their most recent update</strong></a> will give you a sense of how “privacy first” technologists and activists think, and also provides links to many VPN-adjacent resources.</p>
+  </li>
+  <li>
+    <p><strong>The Economist’s</strong> 2021 book of the year - <a href="https://bookshop.org/p/books/privacy-is-power-why-and-how-you-should-take-back-control-of-your-data-carissa-veliz/15315465?ean=9781612199672">Privacy is Power</a> by Carissa Véliz.</p>
+  </li>
+</ul>
+
+<h3 id="tuesday-march-28th">Tuesday March 28th</h3>
+
+<ul>
+  <li>
+    <p>Yesterday I mentioned the OG of Internet Privacy herself, <a href="https://en.wikipedia.org/wiki/Shoshana_Zuboff"><strong>Shoshanna Zuboff</strong></a>, but neglected to link to her <a href="https://bookshop.org/p/books/the-age-of-surveillance-capitalism-the-fight-for-a-human-future-at-the-new-frontier-of-power-shoshana-zuboff/9240225?ean=9781541758001"><strong>magnum opus</strong></a>. Carissa Véliz certainly read this book.</p>
+  </li>
+  <li>
+    <p><strong>Incognito Mode</strong> on a web browser is a great way to keep what you’re doing away from prying eyes on your (or a shared) computer, but it doesn’t do anything to keep remote people from seeing what you’re doing. Here are a couple decent articles about this, one from <a href="https://www.avast.com/c-what-is-incognito-mode">Avast</a> and one from <a href="https://www.bitcatcha.com/blog/can-wifi-owner-see-what-sites-visited-incognito/">Bitcatcha</a>.</p>
+  </li>
+  <li>
+    <p>Yesterday I talked through the “Magic VPNs” example in the book, but here’s an <a href="/assets/MagicVPNs.mp4"><strong>animated recording</strong></a> of the same material that you can replay if you’d like.</p>
+  </li>
+  <li>
+    <p>The relationship between VPNs and ZTNA depends on who’s solution you’re talking about. <a href="https://www.techradar.com/versus/ztna-vs-vpn-what-are-the-differences">This article from TechRadar</a> does a decent job of explaining it without too much company marketing.</p>
+  </li>
+</ul>
+
+<h3 id="wednesday-march-29th">Wednesday March 29th</h3>
+
+<ul>
+  <li>
+    <p>I must admit I love Cloudflare. Explainers like these, on <a href="https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/"><strong>Public Key Cryptography</strong></a> and <a href="https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/"><strong>SSL Certificates</strong></a>, are a big part of why I feel that way.</p>
+  </li>
+  <li>
+    <p>In case you wanted a bit more detail on <a href="https://proprivacy.com/guides/aes-encryption"><strong>how AES encryption works</strong></a>.</p>
+  </li>
+  <li>
+    <p>You can say this is a bit silly, but…well, it’s just awesome. <a href="https://bookshop.org/p/books/the-manga-guide-to-cryptography-masaaki-mitani/7918583?ean=9781593277420"><strong>The Manga Guide to Cryptography</strong></a>! I got a copy for Christmas, honest.</p>
+  </li>
+  <li>
+    <p>Christian asked a great question about how <em>exactly</em> the remote login I demonstrated works - there’s more to it than I thought! The answer (to a reasonable degree of detail) is located in the <a href="https://man7.org/linux/man-pages/man1/ssh.1.html#AUTHENTICATION"><strong>Unix man pages</strong></a>, like all good geeky answers.</p>
+  </li>
+  <li>
+    <p>Thanks to Paul for sending me a (rather unhinged, and on TikTok too!) video monologue from some dude hyperventilating about the RESTRICT act. I can’t say I liked his style, but that doesn’t mean he’s wrong. Here are some other points along similar lines:</p>
+
+    <ul>
+      <li><a href="https://www.internetgovernance.org/2023/03/13/the-restrict-act-reversing-globalization-in-ict/">Internet Governance</a> calls it “the latest legislative atrocity to emerge from Washington.”</li>
+      <li><a href="https://www.lawfareblog.com/two-new-bills-tiktok-and-beyond-data-act-and-restrict-act">Lawfare</a> also talks a bit about the DATA act.</li>
+      <li><a href="https://www.eff.org/deeplinks/2023/03/government-hasnt-justified-tiktok-ban">My lovely EFF</a> doesn’t care about TikTok much itself, rather points out that RESTRICT is just bad law.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>I’m not saying you should contact your reps about this bill, but…</p>
+
+<ul>
+  <li>We probably didn’t talk about Remote Access Trojans (RATs) enough, so here’s <a href="https://www.fortinet.com/resources/cyberglossary/remote-access-trojan">a good article</a> from Fortinet on the topic.</li>
+</ul>
+
+<h4>Remote Access Exercise Assignments</h4>
+<ul>
+<li>Group 1: 
+ <a href="https://www.fortinet.com/solutions/enterprise-midsize-business/work-from-anywhere">Fortinet Work from Anywhere</a>
+</li>
+
+<li>Group 2: 
+<a href="https://www.paloaltonetworks.com/sase/globalprotect">Palo Alto Global Protect</a>
+</li>
+
+
+<li>Group 3:  
+<a href="https://www.sonicwall.com/products/remote-access/">SonicWall Secure Mobile Access</a>
+</li>
+
+<li>Group 4:  
+<a href="https://www.remotepc.com/">Remote PC</a>
+</li>
+
+<li>Group 5:  
+<a href="https://www.cisco.com/site/us/en/products/security/secure-client/index.html">Cisco Secure Client</a>
+</li>
+
+
+
+
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Welcome to our class on VPNs and Remote access for the FDIC and other financial examiners. Here are are a few things to get you thinking about topics we’ll cover during the week:]]></summary></entry><entry><title type="html">Dec. 12-16 2022 - FDIC ITT</title><link href="http://localhost:4000/2022/12/08/ITT.html" rel="alternate" type="text/html" title="Dec. 12-16 2022 - FDIC ITT" /><published>2022-12-08T00:00:00-05:00</published><updated>2022-12-08T00:00:00-05:00</updated><id>http://localhost:4000/2022/12/08/ITT</id><content type="html" xml:base="http://localhost:4000/2022/12/08/ITT.html"><![CDATA[<p>Welcome to our Intro to Telecom and Networking class (we call it ITT for short.) Here are a few things to get you thinking about topics we’ll cover during the week:</p>
+
+<ul>
+  <li>A <a href="https://files.hill.com/assets/ITT_questions.html"><strong>running list</strong></a> of questions I might ask if I were an examiner of banks. Of course, since I’m a network geek, these are ones related to this class. There are many others related to other aspects of networks that I try to raise in other classes.</li>
+</ul>
+
+<h3 id="monday-december-12">Monday December 12</h3>
+
+<ul>
+  <li>
+    <p>If you enjoy history, <a href="https://www.historyofdatascience.com/claude-shannon/"><strong>Claude Shannon</strong></a> is the guy who started modern data communications. If you prefer your history in movie form, there is a cute <a href="https://thebitplayer.com/"><strong>short documentary</strong></a> about him. You needn’t watch the whole thing (<a href="https://www.amazon.com/Bit-Player-John-Hutton/dp/B08D2TXKSX/ref=sr_1_1?crid=3E4Z8DHU6MWW9&amp;keywords=bit+player+movie&amp;qid=1670604926&amp;sprefix=bit+player+movie%2Caps%2C266&amp;sr=8-1"><strong>it’s on Amazon Prime</strong></a> if you want to), but you might find at least <a href="https://www.youtube.com/watch?v=E3OldEtfBrE"><strong>the trailer</strong></a> interesting.</p>
+  </li>
+  <li>
+    <p>If you hate history, just know this: Claude S was <strong>the guy</strong> who figured out that <strong>bits</strong> would be the things we’d use to process, store, and communicate <strong>information</strong>. There, now you don’t need to watch a tedious documentary!</p>
+  </li>
+  <li>
+    <p>Remember that <del>great</del> horrible day last year when Facebook/Insta/WhatsApp disappeared from the internet for about 6 hours? <a href="https://blog.cloudflare.com/october-2021-facebook-outage/"><strong>This is why that happened.</strong></a> The article is pretty detailed, and you probably won’t grok it all quite yet, but a quick scan might give you some ideas. And here’s the cool thing: By the time we’re through with our class, you’ll know enough to understand most of it!</p>
+  </li>
+</ul>
+
+<h3 id="tuesday-december-13">Tuesday December 13</h3>
+
+<ul>
+  <li>
+    <p>I mentioned that I am involved with a tiny fiber ISP called <a href="https://mcfibervt.com"><strong>Mansfield Community Fiber</strong></a> here in Northern Vermont. Broadband to the people!</p>
+  </li>
+  <li>
+    <p>We briefly looked at the amazingness that is <a href="https://openai.com/blog/chatgpt/"><strong>ChatGPT</strong></a> but I’m not sure I expressed how freaked out I am by it. Give it a try yourself, it’s jaw-dropping, and might make you wonder about what humanity means…</p>
+  </li>
+</ul>
+
+<h3 id="wednesday-december-14">Wednesday December 14</h3>
+
+<ul>
+  <li>
+    <p>If you’re interested in a bit more detail about how vLANs work, particularly the “tagging” part, <a href="https://www.networkacademy.io/ccna/ethernet/vlan-trunking"><strong>this is a pretty good</strong></a> illustration of how the tag identifies the vLAN number. Nice little animations too.</p>
+  </li>
+  <li>
+    <p>I briefly mentioned the undersea cable tapping/spying that the US conducted during the cold war. That’s outlined in <a href="https://www.thriftbooks.com/w/blind-mans-bluff-the-untold-story-of-american-submarine-espionage-by-sherry-sontag-christopher-drew/250927/"><strong>this fantastic book</strong></a>. Relatedly, Pat reminded me of the <a href="https://www.smithsonianmag.com/history/during-cold-war-ci-secretly-plucked-soviet-submarine-ocean-floor-using-giant-claw-180972154/"><strong>story of the Glomar Explorer</strong></a>, which is one of the more bizarre episodes of spycraft I’ve heard. That story is also in the linked book.</p>
+  </li>
+</ul>
+
+<h3 id="thursday-december-15">Thursday December 15</h3>
+
+<ul>
+  <li>
+    <p>Here’s a great, short, explainer on <a href="https://sookocheff.com/post/networking/how-does-tcp-work/"><strong>how TCP does its amazing job.</strong></a> We don’t have time to talk about all the details of TCP, like error correction and flow control, but they are super cool.</p>
+  </li>
+  <li>
+    <p>Some companies are so powerful that they can just re-write lots of protocols and do things their way. That’s what Google did when they developed and began using <a href="https://en.wikipedia.org/wiki/QUIC"><strong>the QUIC protocol</strong></a> to make up for what they perceived as weaknesses in TCP. If you ever use Google Chrome as your browser, you’ve almost certainly used it.</p>
+  </li>
+  <li>
+    <p>The Internet Society on <a href="https://www.internetsociety.org/deploy360/tls/basics/"><strong>how TLS works.</strong></a> It’s a bit old but still largely correct and clear.</p>
+  </li>
+  <li>
+    <p>An article from Webroot on <a href="https://www.webroot.com/us/en/resources/tips-articles/dns-security-best-practices"><strong>the importance of DNS security</strong></a>, and here’s another <a href="https://resources.infosecinstitute.com/topic/dns-security-best-practices-preventing-dns-hijacking-poisoning-and-redirection/"><strong>pretty good article</strong></a> from Infosec on the same topic.</p>
+  </li>
+  <li>
+    <p>There is a relatively new, more secure version of the DNS protocol called DNSSEC, which is just beginning to see broad deployment. Cloudflare has a <a href="https://www.cloudflare.com/dns/dnssec/how-dnssec-works/"><strong>great short article</strong></a> on how it works.</p>
+  </li>
+</ul>
+
+<h3 id="friday-december-16">Friday December 16</h3>
+
+<ul>
+  <li>
+    <p>Cloudflare has a <a href="https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/"><strong>great explainer on</strong></a> Public Key Cryptography and some other crypto things.</p>
+  </li>
+  <li>
+    <p>Also on <a href="https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/"><strong>Certificates</strong></a>, which are the authentication component of SSL/TLS and HTTPS.</p>
+  </li>
+  <li>
+    <p>Verizon’s very comprehensive <a href="https://www.verizon.com/business/resources/reports/dbir/"><strong>Data Breach Investigation Report</strong></a> for 2022. You can read it online or register to download a copy.</p>
+  </li>
+  <li>
+    <p>I don’t have my copy of this <a href="https://www.amazon.com/Manga-Guide-Cryptography-Guides/dp/1593277423/ref=sr_1_1?keywords=manga+crypto&amp;qid=1671396861&amp;sr=8-1"><strong>Manga Guide to Cryptography</strong></a> yet, but I will soon. It costs $15, but maybe a gift for that millenial cryptographic geek on your shopping list?</p>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Welcome to our Intro to Telecom and Networking class (we call it ITT for short.) Here are a few things to get you thinking about topics we’ll cover during the week:]]></summary></entry></feed>
