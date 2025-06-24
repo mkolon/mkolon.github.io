@@ -1,15 +1,15 @@
 
 
-5-8: Upper Layers: Applications, web, http(s), smtp, cloud services.
-     Risks: Hacking, app quality, churn.
+7: Upper Layers: Applications, web, http(s), smtp, cloud services.
+   Risks: Hacking, app quality, churn.
 
-4. Transport Layer: Segments, TCP/UDP, TLS/SSL, Encryption, compression.
+4. Transport Layer: Segments, TCP/UDP, TLS/SSL, encryption, compression.
    Risks: Poor performance, misconfiguration, key/certificate problems.
 
 3. Network Layer: Packets, routers, IP, routing protocols. 
    Risks: Route disruption/injection, misconfiguration.
 
-2. Data Link Layer: Frames, bridges, switches, interfaces, Ethernet, Wi-Fi, vLANs. 
+2. Data Link Layer: Frames, bridges, switches, interfaces, Ethernet, Wi-Fi security (WPA3!), vLAN documentation. 
    Risks: vLAN confusion, documentation errors.
 
 1. Physical Layer: Bits, cables/fibers, connectors, interfaces. 
