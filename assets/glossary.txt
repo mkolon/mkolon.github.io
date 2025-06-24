@@ -1,7 +1,7 @@
 
 
 5-8: Upper Layers: Applications, web, http(s), smtp, cloud services.
-     Risks: Hacking, 
+     Risks: Hacking, app quality, churn.
 
 4. Transport Layer: Segments, TCP/UDP, TLS/SSL, Encryption, compression.
    Risks: Poor performance, misconfiguration, key/certificate problems.
@@ -13,5 +13,5 @@
    Risks: vLAN confusion, documentation errors.
 
 1. Physical Layer: Bits, cables/fibers, connectors, interfaces. 
-   Risks: Break vulnerability, tapping, documentation errors.
+   Risks: Break vulnerability, tapping, documentation errors/update.
 
