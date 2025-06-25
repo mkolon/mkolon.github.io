@@ -1,0 +1,24 @@
+Question Development from Wednesday
+
+
+Group 1:
+1) Can you explain how data flows through the network and where it is stored to verify the accuracy of the diagram and the security of storage practices?
+2) Regarding vendor ingress/egress points, are they through the DMZ using dedicated or private lines (physical or logical)? If not, why not?
+3) For segmentation logical separation of systems. Why are VoIP and IoT not separated from critical servers, etc.
+
+Group 2: 
+1) How is the Network Architecture set up-walk me through the topology. 
+2) How are the branches connecting to the Core? 
+3) How is the DMZ segmented if not depicted in topology 
+
+
+Group 3:  
+1) What kind of ISP and internet service does the bank have. How reliable is the connection? Does the bank have a backup ISP or backup connection? (Satellite, DSL, T1, 4G/5G cellular)
+2) Is MPLS or SD-WAN more prevalent these days? What is a more affordable solution for banks? Which is more secure?
+3) Is the network a flat network or is it segmented?
+
+Group 4: 
+1) Are the MPLS encrypted?
+2) Who/what is the backup ISP ? 
+3) What security measures have you put in place for your wireless network?
+4) Have you considered switching to a SDWAN environment?
