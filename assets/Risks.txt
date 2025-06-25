@@ -1,0 +1,5 @@
+Risks
+
+End-of-life hardware (of any connected kind)
+Stale software/firmware updates
+Cracked IoT devices
