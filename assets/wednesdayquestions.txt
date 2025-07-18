@@ -1,6 +1,5 @@
 Question Development from Wednesday
 
-
 Group 1:
 1) Can you explain how data flows through the network and where it is stored to verify the accuracy of the diagram and the security of storage practices?
 2) Regarding vendor ingress/egress points, are they through the DMZ using dedicated or private lines (physical or logical)? If not, why not?
@@ -18,7 +17,8 @@ Group 3:
 3) Is the network a flat network or is it segmented?
 
 Group 4: 
-1) Are the MPLS encrypted?
-2) Who/what is the backup ISP ? 
+1) Is the MPLS encrypted?
+2) Who/what is the backup ISP? 
 3) What security measures have you put in place for your wireless network?
 4) Have you considered switching to a SDWAN environment?
+
