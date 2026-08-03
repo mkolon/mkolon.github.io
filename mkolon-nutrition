@@ -1,0 +1,176 @@
+id,timestamp,quantity,unit,item
+1,2026-05-01T20:08:01.382867,2.0,cup,coffee
+2,2026-05-01T20:08:14.336265,200.0,grams,chicken
+3,2026-05-02T08:26:15.204084,1.0,cup,yogurt
+4,2026-05-02T08:26:24.970875,1.0,cup,granola
+5,2026-05-02T08:26:38.451889,2.0,cups,coffee
+6,2026-05-06T15:42:16.413308,1.0,cup,yogurt
+7,2026-05-06T15:42:32.333536,1.0,cup,raspberries
+8,2026-05-06T15:42:42.226065,0.5,cup,pistachios
+9,2026-05-06T15:43:11.843626,0.5,bagel,bagel
+10,2026-05-06T15:55:23.558779,2.0,tbsp,nut butter
+11,2026-05-06T15:55:37.432704,1.0,banana,banana
+12,2026-05-06T16:57:33.376419,0.5,cup,cashews
+13,2026-05-06T20:38:45.785461,2.0,cups,beans
+14,2026-05-06T20:39:05.007602,1.0,large,salad
+15,2026-05-06T20:39:23.859158,2.0,medium,cookies
+16,2026-05-07T08:06:19.883716,1.5,cup,yogurt
+17,2026-05-07T08:06:32.284069,1.0,medium,banana
+18,2026-05-07T08:06:41.254740,1.0,tsp,honey
+19,2026-05-07T08:10:13.490754,0.25,cup,pistachios
+20,2026-05-07T14:39:50.296851,1.0,medium,bagel reuben
+21,2026-05-07T14:40:29.603257,1.0,12oz,black coffee
+22,2026-05-07T18:06:42.013006,0.25,cup,raisins
+23,2026-05-07T09:00:00,2.0,cup,cortado
+24,2026-05-07T20:56:44.782050,2.0,serving,vegetarian doenjang jigae
+25,2026-05-07T20:56:58.297258,1.0,cup,cooked rice
+26,2026-05-07T20:57:17.974694,1.0,cup,sauteed vegetables
+27,2026-05-07T20:57:45.815388,3.0,medium,iced nut butter cookies
+28,2026-05-07T20:58:22.297991,10.0,oz,switchback ale
+29,2026-05-08T12:08:45.292579,1.0,cup,homemade granola
+30,2026-05-08T12:08:56.263277,1.0,cup,yogurt
+31,2026-05-08T12:09:45.667095,2.0,double,full fat cortado
+32,2026-05-08T12:10:23.877598,1.0,bowl,onion fried rice with 2 eggs
+33,2026-05-08T16:08:06.844597,2.0,medium,carrots
+34,2026-05-08T16:08:23.537149,3.0,tsp,hummus
+35,2026-05-08T18:04:21.612322,1.0,large,sesame noodles
+36,2026-05-08T18:04:33.727723,1.0,large,green salad
+37,2026-05-08T22:20:49.354027,2.0,med,nut butter cookies
+38,2026-05-09T10:34:50.945947,0.5,cup,granola
+39,2026-05-09T10:35:03.918784,1.0,cup,yogurt
+40,2026-05-09T10:35:14.038900,2.0,cups,cortado
+41,2026-05-09T14:11:15.348264,1.0,medium,nut butter cookie
+42,2026-05-09T18:01:54.480036,0.5,handful,cashews
+43,2026-05-09T19:37:59.075763,1.0,large,green salad
+44,2026-05-09T19:38:22.406619,1.0,medium,sesame bagel with 2 eggs and cheese
+45,2026-05-09T20:11:24.538722,0.3,cups,cashew
+46,2026-05-09T20:11:32.048566,0.25,cups,raisins
+49,2026-05-10T11:10:07.189333,2.0,cup,cortado
+50,2026-05-10T13:11:32.063070,1.0,medium,everything bagel
+51,2026-05-10T13:11:49.418674,2.0,tsp,butter
+52,2026-05-10T13:12:03.084312,2.0,tbsp,hummus
+53,2026-05-10T16:33:29.510698,0.25,cup,cashews
+54,2026-05-10T19:01:38.167738,6.0,oz,canned salmon
+55,2026-05-10T19:01:53.436369,2.0,tbsp,mayonnaise
+56,2026-05-10T19:02:12.155164,1.0,medium,nut butter cookie
+57,2026-05-10T19:02:31.691845,1.0,medium,green salad
+58,2026-05-10T19:03:12.051026,1.0,medium,everything bagel
+60,2026-05-10T07:30:00,0.25,cup,granola
+61,2026-05-10T07:30:00,0.5,cup,yogurt
+62,2026-05-11T11:08:07.824707,0.5,medium,everything bagel
+63,2026-05-11T11:08:29.646514,2.0,tbsp,hummus
+64,2026-05-10T07:30:00,0.5,cup,yogurt
+65,2026-05-10T07:30:00,0.5,cup,granola
+66,2026-05-11T07:30:00,0.5,cup,yogurt
+67,2026-05-11T07:30:00,0.5,cup,granola
+68,2026-05-11T20:06:03.283266,1.0,medium,everything bagel
+69,2026-05-11T20:06:18.442111,2.0,tbsp,hummus
+70,2026-05-11T20:07:28.579770,1.0,cup,potato and corned beef stew
+71,2026-05-11T20:07:45.290609,1.0,small,green salad
+72,2026-05-11T20:08:13.480435,1.0,cup,mixed nuts
+73,2026-05-12T10:05:29.612303,1.25,cups,yogurt
+74,2026-05-12T10:05:49.257839,0.75,cups,granola
+75,2026-05-12T10:06:13.662256,1.0,medium,chicken salad sandwich
+76,2026-05-12T10:06:45.991821,2.0,servings,doritos
+77,2026-05-12T10:07:09.141240,90.0,calories,airline snacks
+78,2026-05-12T10:07:57.556318,1.0,typical,cortado
+79,2026-05-12T20:50:47.090310,800.0,cals,louisiana eggs
+80,2026-05-12T20:51:27.633193,800.0,cals,red lentil soup
+81,2026-05-12T20:51:56.040367,2.0,medium,shortbread cookies with chocolate dip
+82,2026-05-12T20:52:18.845718,16.0,oz,6% ale
+83,2026-05-13T09:55:36.717321,1.0,coffeshop,bran muffin
+84,2026-05-14T14:56:23.989293,0.5,medium,bran muffin
+85,2026-05-14T14:56:55.162961,1.0,medium,pork banh mi sandwich
+86,2026-05-14T14:57:12.746739,15.0,chocolate,covered almonds
+87,2026-05-14T14:57:31.150666,3.0,standard,cortados
+88,2026-05-16T08:15:32.010810,1.0,small,thin mint cookie
+89,2026-05-16T13:23:06.115988,1.0,medium,everything bagel with salmon cream cheese
+90,2026-05-16T13:23:28.783578,0.5,cup,trail mix
+91,2026-05-16T13:23:47.462219,1.0,med,egg on green salad with avocadeo
+92,2026-05-16T21:08:03.414916,1.0,large,garlic noodles with pork
+93,2026-05-16T21:08:21.516137,1.0,medium,fruit salad
+94,2026-05-16T21:08:37.663096,10.0,chocolate,covered almonds
+95,2026-05-17T14:46:38.739883,1.0,medium,banh mi sandwich
+96,2026-05-17T14:47:00.335147,0.5,medium,fish banh mi sandwich
+97,2026-05-17T14:47:11.550488,1.0,small,bag chips
+98,2026-05-17T14:47:24.032357,1.0,small,fruit bar
+99,2026-05-21T11:05:44.944289,1.0,medium,sesame bagel with cream cheese
+100,2026-05-21T11:48:18.718121,2.0,medium,cortados
+101,2026-05-22T12:18:48.259412,2.0,same,cortados as every day
+102,2026-05-22T12:19:12.333536,1.0,small,yogurt with fruit
+103,2026-05-22T12:19:23.512115,1.0,small,eclair
+104,2026-05-22T22:52:16.779957,1.0,medium,apple
+105,2026-05-22T22:52:33.662072,1.0,med,margarita
+107,2026-05-22T22:59:13.745045,1.0,large,ENCHIPOTLADOS Chipotle Garlic Shrimp
+109,2026-05-22T23:16:56.985136,2.0,sm,choclate truffles
+110,2026-05-23T14:16:07.121532,2.0,medium,tuna onigiri
+111,2026-05-23T14:16:15.399200,2.0,regular,cortados
+112,2026-05-23T14:16:26.815987,0.5,large,apple
+113,2026-05-26T11:31:14.335929,0.5,cup,yogurt
+114,2026-05-26T11:31:26.302366,0.5,cup,granola
+115,2026-05-26T11:31:39.139093,2.0,typical,cortados
+116,2026-05-26T11:32:11.226740,1.0,small,bowl veg stew
+117,2026-05-26T15:13:31.259063,7.0,standard,ritz crackers
+118,2026-05-26T15:13:43.899734,61.0,grams,gruyere cheese
+119,2026-05-27T08:24:11.930946,2.0,usual,cortados
+120,2026-05-26T23:30:00,1.0,large,bowl veg japchae
+121,2026-05-26T23:30:00,1.0,large,bowl donjang jiggae
+122,2026-05-26T23:30:00,1.0,large,handful cashews
+123,2026-05-27T13:43:29.140226,1.0,small,bowl japchae
+124,2026-05-27T14:46:56.435012,1.0,typical,everything bagel with cream cheese
+125,2026-05-27T14:47:21.807064,2.0,regular,scrambled eggs with scallions
+126,2026-05-27T21:41:28.956330,1.0,large,salad
+127,2026-05-27T21:41:45.617552,0.5,can,of salmon with mayo
+128,2026-05-27T21:41:57.075380,1.0,medium,yam
+129,2026-05-27T21:42:23.299339,4.0,sm,rice cookies totaling 120 kcal
+130,2026-05-28T08:40:00.223910,2.0,typical,cortados
+131,2026-05-28T08:40:11.594152,0.5,cup,yogurt
+132,2026-05-28T08:40:20.057584,0.5,cup,granola
+133,2026-05-28T08:40:40.345504,0.5,regular,banana
+134,2026-05-28T12:43:45.203277,1.0,small,bowl veg japchae
+135,2026-05-28T13:09:08.995929,0.5,cup,raisin/cashew mix
+136,2026-05-28T22:12:56.707506,1.0,large,helping sambar
+137,2026-05-28T22:13:04.228684,2.0,small,idli
+138,2026-05-28T22:13:26.838692,2.0,large,bowls vanilla ice cream
+139,2026-05-28T22:13:37.618328,3.0,small,chocolate brownies
+140,2026-05-28T22:13:56.194045,2.0,12oz,switchback ales
+141,2026-05-29T13:48:46.433180,2.0,typical,cortados
+142,2026-05-29T13:49:05.568726,1.0,medium,everything bagle with cream cheese
+143,2026-05-29T13:49:27.351732,0.4,medium,bagel with cream cheese
+144,2026-05-29T21:35:44.962750,2.0,medium,chocolate chip cookies
+145,2026-05-29T21:36:01.149311,1.0,medium,chicken sloppy joe
+146,2026-05-29T21:36:19.758753,1.0,medium,serving baked beans
+147,2026-05-29T21:36:34.002902,1.0,standard,chef salad
+148,2026-05-29T21:36:50.708703,2.0,12,oz beers
+149,2026-05-29T21:37:35.248279,1.0,handful,tortilla chips
+150,2026-05-30T09:15:24.695932,2.0,typical,cortados
+151,2026-05-30T09:16:05.612037,2.0,cups,veg japchae
+152,2026-05-30T12:25:00.004513,1.0,standard,banana
+153,2026-05-30T12:25:08.632693,3.0,tbsp,nut butter
+154,2026-05-30T16:19:30.552079,1.0,small,handfull cashews
+155,2026-05-30T18:04:22.162534,1.0,small,handfull cashews
+156,2026-05-31T15:20:51.239990,1.0,standard,everything bagel with cream cheese
+157,2026-05-31T15:21:19.673892,2.0,standard,cortados
+158,2026-05-31T15:21:43.512279,1.0,12oz,can cream soda
+159,2026-05-31T15:22:04.173430,1.0,regular,breakfast burrito with sausage
+160,2026-05-31T15:22:21.681723,1.0,small,bag airline pretzels
+161,2026-05-31T20:32:19.167817,1.0,medium,papaya salad
+162,2026-05-31T20:32:36.694871,1.0,large,tofu curry with cashews
+163,2026-05-31T20:33:21.844005,1.0,medium,haagen dazs vanilla ice cream bar
+164,2026-06-01T10:00:36.904632,1.0,cup,oatmeal
+165,2026-06-01T10:00:48.468920,1.0,tbsp,brown sugar
+166,2026-06-01T10:00:58.195165,2.0,typical,cortados
+167,2026-06-01T10:01:13.174362,1.0,tbsp,raisins
+168,2026-06-02T10:01:18.862794,1.0,cup,chobani blueberry yogurt
+169,2026-06-02T10:01:27.556440,2.0,typical,cortados
+170,2026-06-02T10:01:59.557289,1.0,very,large korean chicken dinner with kimchis
+171,2026-06-03T12:05:19.966281,2.0,typical,cortados
+172,2026-06-03T12:05:37.606935,1.0,large,bowl oatmeal with raisins and brown sugar
+173,2026-06-03T12:05:51.322743,1.0,large,salad with salmon
+174,2026-06-03T12:06:13.641430,2.0,oz,planters trail mix
+175,2026-06-03T21:16:01.950085,7.5,oz,flipz white chocolate pretzels
+176,2026-06-03T21:16:11.616023,1.0,large,hotpot dinner
+177,2026-06-03T21:16:51.115676,30.0,oz,asahi superdry beer
+178,2026-06-04T07:52:29.926618,2.0,typical,cortados
+179,2026-06-04T07:52:50.757927,1.0,standard,clif bar
+180,2026-06-04T19:21:28.552544,1.0,large,bulgogi bibimbap
