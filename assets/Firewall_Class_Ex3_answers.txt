@@ -1,0 +1,56 @@
+Firewall Class Exercise 3 Toolkit 
+Questions and Doc Requests
+
+1. Firewall
+- We have the topology via slides, but we would ask for it if we did not.
+- What model is it (need to check EOL)?
+- Who manages it? (we know Northwood via slides).   Request: Vendor contract, SLA.
+- Do they submit reporting, frequency?  Request: reporting
+- Is it audited? Frequency of audits?  Request: Audit (all audits are requested in prep week, but if we missed one we would ask)
+- Change Management over the firewall?  Documentation, Reporting? Request: Reporting for change management
+- SIEM? (We would ask essentially the same questions as above for the SIEM)
+- How do these feed into the IR program?
+- Check overall governance over these things and reporting up to the Board.
+
+2. Segmentation
+Model interview questions:
+- How is guest network traffic kept separate from internal systems? 
+- When was the last time the network diagram was updated and who updated it.
+- What prevents a device on one network segment from reaching another?
+- Has segmentation ever actually been tested? 
+Model evidence to request:
+- Network diagram showing segments or zones
+- Review list of hardware and/or review server room to determine accuracy of network diagram.
+- Results of any segmentation or penetration testing.
+- Additionally, review the scope of the pen test review to ensure the scope of the test was adequate.
+- VLAN or access control list configuration summary
+
+3. Availability
+Questions/Discussion Topics
+- Who is responsible for restoration process / backups and testing?
+- What is monitoring and notification process for outages in real time?
+- When was the most recent backup / what is the backup frequency?
+- BIA – How often is the network architecture reviewed to determine most important systems and single points of failure?
+- (if not part of BIA) What reviews have been done to determine / test capacity to handle peak load? 
+- What steps have been taken to provide failover options / redundancy?  What is the failover path? 
+- When was the last live failure?
+- What were the downtimes?  Within RTOs / compliant with SLAs
+ 
+Request
+- Contract with Northwood / SLAs
+- Failover test results
+- Backup Documentation
+- RTO / RPO validation
+- Capacity Management
+
+4. Monitoring
+- Who is responsible for monitoring logs?  Is it Tom, Northwoods, or a combination of both?  
+- We would expect this to be defined within policy or in the contract with the MSP.
+- What tool or platform is utilized for monitoring?
+- Were any alerts generated turn out to be credible threats? (during a specified period of time)
+ 
+Requests:
+- List of alert reports that were generated (during a specified period of time)
+- Any related policies
+- Related reports that are presented to the Board or executive committee
+
