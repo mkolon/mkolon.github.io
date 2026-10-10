@@ -1,0 +1,4 @@
+---
+# Empty placeholder: jekyll-feed (pulled in by minima) skips generating a feed
+# when this file exists, so post content is not published in an RSS feed.
+---
